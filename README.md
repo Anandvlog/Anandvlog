@@ -2,7 +2,7 @@
 
 ### Frontend-Focused Full Stack Developer | MERN Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anandvlog&color=blue&style=flat)
+![Profile Views](https://anandchauhan03.netlify.app/)
 
 I'm a **Full Stack Developer with 3.5 years of experience** building responsive, scalable, and user-friendly web applications. I specialize in React.js and Next.js, with experience in REST API integration, reusable components, and frontend performance optimization.
 
