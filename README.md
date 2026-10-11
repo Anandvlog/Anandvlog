@@ -11,7 +11,7 @@ I'm a **Full Stack Developer with 3.5 years of experience** building responsive,
 - 💳 Implemented authentication and Razorpay payment integration in my Buy Me a Coffee project
 - ⚡ Interested in clean code, scalable architecture, and web performance optimization
 - 🤝 Open to collaborating on interesting web development projects
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/anand-chauhan-1b9b301a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 💻 Explore my repositories on [GitHub](https://github.com/Anandvlog)
 
 ---
