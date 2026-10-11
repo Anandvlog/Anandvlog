@@ -1,4 +1,4 @@
-# Hi, I'm Anand Kumar Chauhan! 👋
+# Hi, I'm Anand Chauhan! 👋
 
 ### Frontend-Focused Full Stack Developer | MERN Stack Developer
 
