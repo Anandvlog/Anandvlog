@@ -19,7 +19,7 @@ I'm a **Full Stack Developer with 3.5 years of experience** building responsive,
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anandvlog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-chauhan-1b9b301a4?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
